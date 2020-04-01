@@ -1,0 +1,6 @@
+framework module PYBJShadowPath {
+  umbrella header "PYBJShadowPath.h"
+
+  export *
+  module * { export * }
+}
